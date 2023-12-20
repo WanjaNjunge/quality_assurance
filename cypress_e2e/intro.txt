@@ -1,0 +1,35 @@
+Cypress Intro
+-------------
+-> Frontend web automation testing tool
+-> Tests any application that runs on a browser
+-> Needs node.js and comes with npm module
+
+Used for:
+---------
+End-to-end test cases
+Integration Tests
+Unit Tests
+
+API testing
+
+Cypress Eco System:
+-------------------
+1.TestRunner - open source, locally installed
+2.Dashboard - paid
+
+Features:
+---------
+1.Time travel 
+2.Debuggability
+3.Automatic waits (built-in waits)
+4.Consistent results
+5.Screenshots & videos captured
+6.Crossbrowser testing - locally or remotely 
+
+Limitations
+-----------
+1.Can't automate window based and mobile apps
+Limited supports
+Only supports JS/TS
+reading/writing data into files is difficult
+Third party reporitng tool integration is limited

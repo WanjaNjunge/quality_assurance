@@ -1,0 +1,17 @@
+Create a package.json file
+    npm -i init
+
+Install Cypress
+    npm install cypress --save -dev
+
+Start Cypress
+    npx cypress open
+    
+ Run Cypress on CLI - Headless Mode 
+ 	npx cypress run --spec paste/file/path
+ 			--browser chrome
+ 			
+ Run Cypress on CLI - Headed/Browser Mode 
+ 	npx cypress run --headed
+ 	
+ Spec file(test suite) --> describe block(test case) --> it block(test steps)

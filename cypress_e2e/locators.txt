@@ -1,0 +1,17 @@
+CSS Selector
+------------
+cy.get(Locator) - identify element
+
+-tag is optional
+
+tag id  -   #id
+tag class   - .class
+tag attribute   - [attribute]
+tag class attribute - .class[attribute]
+
+
+
+
+
+
+XPath Locator 
