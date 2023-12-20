@@ -1,0 +1,51 @@
+--> Understand STLC
+
+Steps:
+    - Project introduction
+    - Understanding and Explore Functionality
+    - Test Plan
+    - Writing Test Scenarios
+    - Writing Test Cases and reviews
+    - Environment Setup and Build Deployment
+    - Test Execution
+    - Bug Reporting and Tracking
+    - Sanity Testing, Re-testing and Regression Testing
+    - Test Sign off
+
+Project vs Product
+
+Project - specific Customer/Client requirements
+
+Product - Market requirements. (Common requirements from customers)
+
+1. PROJECTS INTRODUCTION
+-------------------------
+
+1. Product
+2. Domain - ecommerce product/app
+
+
+url - https://demo.opencart.com/
+customer - opencart
+
+FRONTEND(public):
+-internet
+1. Login
+2. Search products/items
+3. Add to cart
+4. Make payment
+5. Product delivery
+6. Product return
+
+BACKEND(admin):
+-intranet 
+
+2. UNDERSTAND + EXPLORE Functionality
+-------------------------------------
+Functional Requuirements Specification
+Mock up screens
+Exploratory testing
+
+3.TEST Plan
+------  
+ 
