@@ -10,8 +10,3 @@ tag attribute   - [attribute]
 tag class attribute - .class[attribute]
 
 
-
-
-
-
-XPath Locator 

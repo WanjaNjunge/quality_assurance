@@ -1,0 +1,19 @@
+1) Implicit assertions - built-in
+
+    should
+    and
+
+eq
+contain
+exist
+include
+have.length
+have.value
+
+use not for negative assertion
+
+2)Explicit assertions - customized
+
+    expect - BDD
+
+    assert -TDD
